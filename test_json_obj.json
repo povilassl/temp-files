@@ -1,0 +1,10 @@
+{
+    "multi_ship": {
+        "date": "2025-04-25",
+        "price": 19.99
+    },
+    "ship_complete": {
+        "date": "2025-05-15",
+        "price": 25.50
+    }
+}
